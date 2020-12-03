@@ -8,8 +8,8 @@
 
   <rect x="20" y="20" width="4" height="4" fill="#00832d"/>
 
-  <rect x="20" y="20" width="4" height="12" fill="#00ac47"/>
+  <rect x="20" y="8" width="4" height="12" fill="#00ac47"/>
 
-  <rect x="6" y="14" width="4" height="4" fill="#0066da"/>
+  <rect x="6" y="14" width="12" height="4" fill="#0066da"/>
 
 </svg>
