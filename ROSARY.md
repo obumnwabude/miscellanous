@@ -27,3 +27,16 @@ Below are Bible quotations that can guide meditations during each Hail Mary of e
 * "He has put down the mighty from their thrones, and has exalted the lowly." (Luke 1:52)
 * "He has filled the hungry with good things, and the rich He has sent away empty." (Luke 1:53)
 
+### 3. Nativity
+* It came to pass while they were in Bethlehem, that the days for her to be delivered were fulfilled. (Luke 2:6)
+* And she brought forth her firstborn Son, and wrapped Him in swaddling clothes. (Luke 2:7)
+* And she laid HIm in a manager, because there was no room for them in teh inn. (Luke 2:7)
+* And there were shepherds in the same district. And behold an angel of the Lord stood by them. (Luke 2:8-9)
+* "Do not be afraid, for behold, I bring you good news of great joy which shall be to all the people." (Luke 2:10)
+* "For today in the town of David a Savior has been born to you, who is Christ, the Lord." (Luke 2:11)
+* "Glory to God in the Highest, and on earth peace to men of good will." (Luke 2:14)
+* And behold, Magi came from the East, and entering they found the child with Mary His mother. (Matt. 2:11)
+* And falling down they worshipped Him and they offered Him gifts of gold, frankincense and myrrh. (Mat 2:11)
+* And Mary kept in mind all these things, pondering them in her heart. (Luke 2:19)
+
+
