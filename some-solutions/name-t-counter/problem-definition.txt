@@ -1,0 +1,1 @@
+Create a Java program in codiva.io to store your name as a character array and print total of character T (both upper and lower cases) in your name.
